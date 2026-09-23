@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-]square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dilini-randima-061861438/  [![Gmail Badge](https://img.shields.io/badge/wgdilinirandima72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wgdilinirandima72@gmail.com)](mailto:wgdilinirandima72@gmail.com)  
+://https://www.linkedin.com/in/dilini-randima-061861438/  [![Gmail Badge](https://img.shields.io/badge/wgdilinirandima72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wgdilinirandima72@gmail.com)](mailto:wgdilinirandima72@gmail.com)  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
