@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 -  **Fact :** It's never late to get started 🎯:heart:
 - 
 <p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
-</p>
+  <img alt=dilini1123 src="https://github-readme-stats.vercel.app/api?username=dilini1123
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
