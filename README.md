@@ -18,16 +18,15 @@ Here are some ideas to get you started:
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-]square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dilini-randima-061861438/  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
+]square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dilini-randima-061861438/  [![Gmail Badge](https://img.shields.io/badge/wgdilinirandima72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wgdilinirandima72@gmail.com)](mailto:wgdilinirandima72@gmail.com)  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Computer Engineering and technology :zap: |ICET :fire:	
 -  **Languages :** Python, C, JavaScript💻
--  **Hobbies :** Articles📕 & Music :headphones:
+-  **Hobbies :** Reading📕 & Explore nature ,Music:headphones:
 -  **Fact :** It's never late to get started 🎯:heart:
--  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
-
+- 
 <p align="center">
   <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
 </p>
@@ -37,6 +36,5 @@ Here are some ideas to get you started:
 </p>
 
 -----
-Credits: [Isha Gupta](https://github.com/Isha2103)
-
-Last Edited on: 25/11/2020
+Credits:dilini1123
+Last Edited on: 23/09/2026
