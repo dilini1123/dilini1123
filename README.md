@@ -1,177 +1,538 @@
-
-<!--
-**dilini1123/dilini1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
-Hi, I'm Dilini Randima
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-Dilini Randima=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Dilini Randima" />-->
- <img src="https://gpvc.arturio.dev/I-am-DiliniRandima" alt="Profile views" align='right'/> <a href="https://github.com/I-am-DiliniRandima/I-am-DiliniRandima/"> </a> 
-<br/>
+  Hi 👋, I'm Dilini Randima!
+</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Coding;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Software+Engineer;Cloud+Computing+Enthusiast;Curious+Mind+%7C+Continuous+Learner;Volunteer+%7C+Problem+Solver;Always+Exploring+Something+New"
+    alt="Typing SVG"
+  />
 </p>
 
-<img align="left" src="https://github.com/I-am-DiliniRandima/I-am-DiliniRandima/blob/main/cropped_image.png" 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilini-randima-061861438/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Dilini%20Randima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:wgdilinirandima72@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                      ABOUT ME                         -->
+
+<!-- ===================================================== -->
+
+<table>
+<tr>
+
+<td width="42%" align="center" valign="middle">
 
 <img
-  src="./assets/software-engineer-anime.png"
-  alt="Cozy anime software engineer coding"
-  width="500"
+src="./software-engineer-girl.png"
+alt="Cozy anime software engineering girl coding"
+width="360"
 />
 
-<hr>
+<br><br>
 
-</div>
-```
-I-am-dilinirandima@github
--------------------------
-💻 I am a student at Institute of Computer Engineering Technology and a self learner
+<img
+src="https://komarev.com/ghpvc/?username=dilini1123&label=Profile%20Views&color=9B59B6&style=flat-square"
+alt="Profile Views"
+/>
 
-📝 I have a strong interest in Data Science ,Computing and Coding. 
-🔭 Working on Deep Learning & Machine Learning .
-🌱 Learning about Computer and Data Science Learning stuff.
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Coding and Learning how to become disgustingly educated and well known. 
-💖 In a complicated relationship with computer and Coding Stuff.
+</td>
 
-🎵 Love metal, lofi, jazz and soft music
-```
-<hr>
+<td width="58%" valign="middle">
 
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
+<h2>🌸 About Me</h2>
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
+I'm <b>Dilini Randima</b>, a student at the
+<b>Institute of Computer Engineering Technology</b> with a growing
+passion for technology, software development, computing, and cloud systems.
 </p>
 
-### 🗄️ Databases and Cloud Hosting
-
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+I genuinely enjoy learning how technology works, solving problems,
+exploring new ideas, and continuously challenging myself to grow.
+For me, learning is not something that ends with a classroom or a
+certificate — it is a lifelong journey.
 </p>
 
-### 💻 Software and Tools
-
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+💻 Passionate about coding and software development<br>
+☁️ Interested in cloud computing and cloud systems<br>
+🧠 Curious about computing and modern technology<br>
+📚 Always learning something new<br>
+🤝 Enjoy volunteering and helping others<br>
+🌿 Love exploring new places and spending time in nature
 </p>
 
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
+</td>
 
-
-## GitHub Stats
-
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href=https://www.linkedin.com/in/dilini-randima-061861438/>LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
+</tr>
 </table>
 
-------
-Credits: [I-am-dilnirandima](https://github.com/I-am-dilinirandima)
-Last Edited On: 23/09/2026
+<br>
 
+---
 
+# 👩‍💻 Who I Am
 
+I'm a curious learner who believes that **there is always something
+new to understand**.
 
+My current journey is focused on developing a strong foundation in
+computer engineering, programming, software development, computing,
+and cloud technology.
 
+I don't want to learn something simply to say that I know it.
 
-<p align="center">
-  <img alt=dilini1123 src="https://github-readme-stats.vercel.app/api?username=dilini1123
+I want to understand:
 
-<p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+* 🔍 **Why** something works
+* 🧠 **How** it works
+* 🛠️ **How to build it**
+* 💡 **How to improve it**
+* 🌎 **How technology can help people**
+
+My goal is to grow into a technology professional who combines
+technical knowledge, creativity, curiosity, problem-solving, and
+a willingness to keep learning.
+
+---
+
+# 🎓 Education
+
+### 🏫 Institute of Computer Engineering Technology
+
+**Computer Engineering & Technology Student**
+
+I'm currently developing my knowledge and practical understanding
+of computer engineering and modern technology.
+
+My areas of interest include:
+
+* 💻 Programming and software development
+* 🖥️ Computer systems
+* ☁️ Cloud computing
+* 🌐 Modern computing technologies
+* 🧩 Problem solving
+* 🧠 Logical and analytical thinking
+* 🚀 Practical technology projects
+
+I am interested in understanding how different areas of computing
+connect together to create useful and reliable technology solutions.
+
+---
+
+# ☁️ Cloud Computing
+
+Cloud computing is one of the technology areas that I am particularly
+interested in exploring.
+
+I'm fascinated by how modern applications and services can use cloud
+infrastructure to become scalable, accessible, reliable, and easier
+to manage.
+
+I want to gradually develop my understanding of:
+
+```text
+                    ☁️ CLOUD COMPUTING
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      Computing        Applications      Storage
+          │                │                │
+          ▼                ▼                ▼
+     Infrastructure    Deployment       Data
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                    Modern Systems
+```
+
+My goal is to build a strong foundation in cloud systems and
+eventually use that knowledge to create practical and meaningful
+technology solutions.
+
+---
+
+# 💻 What I'm Passionate About
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>👩‍💻 Software & Coding</h3>
+
+<p>
+I enjoy learning how software is designed, developed, tested,
+debugged, and improved.
 </p>
 
------
-Credits:dilini1123
-Last Edited on: 23/09/2026
+<p>
+I want to become a better programmer through consistent practice,
+experimentation, problem solving, and building real projects.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☁️ Cloud & Computing</h3>
+
+<p>
+I'm interested in understanding the systems behind modern
+applications, including cloud infrastructure, computing environments,
+and how different technologies work together.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Continuous Learning</h3>
+
+<p>
+I enjoy learning new concepts, exploring unfamiliar topics,
+asking questions, and going beyond what I already know.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌱 Personal Growth</h3>
+
+<p>
+I'm constantly working on becoming a better learner, problem solver,
+communicator, and technology enthusiast.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 My Learning Philosophy
+
+> **"I don't want to simply know things. I want to understand them."**
+
+One of my biggest personal goals is to become
+**disgustingly educated**.
+
+For me, this means developing a deep curiosity about technology,
+science, people, nature, and the world around me.
+
+I want to continuously:
+
+```text
+        📚 Learn
+           ↓
+        🧠 Understand
+           ↓
+        🔬 Experiment
+           ↓
+        🐛 Make Mistakes
+           ↓
+        📖 Learn Again
+           ↓
+        🛠️ Build
+           ↓
+        🤝 Share
+           ↓
+        ❤️ Help Others
+           ↓
+        🌱 Keep Growing
+```
+
+I believe that being a good technologist isn't only about technical
+skills.
+
+It is also about curiosity, communication, collaboration,
+responsibility, empathy, and the willingness to keep learning.
+
+---
+
+# 🤝 Volunteering & Helping Others
+
+One part of my personality that I value is my willingness to help
+others.
+
+I enjoy volunteering because it gives me an opportunity to contribute,
+meet different people, learn from others, and become part of something
+bigger than myself.
+
+I believe knowledge becomes more meaningful when it can be shared.
+
+### 🌱 Things I Value
+
+* 🤝 Helping people
+* 📚 Sharing knowledge
+* 💡 Supporting others when they are learning
+* 🌎 Contributing to communities
+* 🫶 Working together
+* 🌱 Learning from different perspectives
+* ❤️ Making a positive contribution
+
+---
+
+# 🌿 Beyond Technology
+
+Technology is a major part of my interests, but it isn't the only
+thing that defines me.
+
+I also love **exploring new things and spending time in nature**.
+
+Nature gives me an opportunity to slow down, think, observe, and
+recharge.
+
+I enjoy discovering new places, experiencing new environments,
+and being curious about the world around me.
+
+```text
+             💻 Technology
+                   +
+              📚 Learning
+                   +
+             🤝 Helping Others
+                   +
+                🌿 Nature
+                   +
+              🌎 Exploration
+                   ↓
+          ✨ A Better Version
+             of Myself ✨
+```
+
+---
+
+# 🚀 What I'm Working Toward
+
+My journey is still at the beginning, and I'm excited about that.
+
+Rather than trying to become an expert overnight, I want to develop
+my skills step by step.
+
+### My goals include:
+
+* 💻 Becoming a stronger programmer
+* ☁️ Developing deeper knowledge of cloud computing
+* 🧠 Strengthening my problem-solving abilities
+* 🛠️ Building meaningful projects
+* 🌐 Understanding modern computing systems
+* 📚 Developing strong technical knowledge
+* 🤝 Contributing to communities
+* 🌱 Becoming a lifelong learner
+* 🚀 Growing into a capable technology professional
+* 💡 Using technology to create useful solutions
+
+---
+
+# 📚 Currently Learning
+
+```text
+┌────────────────────────────────────────────────────┐
+│                 MY LEARNING JOURNEY                 │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  💻 Programming & Software Development             │
+│                                                    │
+│  ☁️  Cloud Computing & Cloud Systems               │
+│                                                    │
+│  🖥️  Computer Engineering & Computing              │
+│                                                    │
+│  🧠 Problem Solving & Logical Thinking             │
+│                                                    │
+│  🌐 Modern Technology                               │
+│                                                    │
+│  🚀 Practical Project Development                  │
+│                                                    │
+│  📚 Continuous Self-Education                      │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Technology Interests
+
+<p align="center">
+
+<img
+src="https://img.shields.io/badge/Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"
+alt="Programming"
+/>
+
+<img
+src="https://img.shields.io/badge/Software%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=white"
+alt="Software Development"
+/>
+
+<img
+src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white"
+alt="Cloud Computing"
+/>
+
+<img
+src="https://img.shields.io/badge/Computer%20Systems-333333?style=for-the-badge&logo=linux&logoColor=white"
+alt="Computer Systems"
+/>
+
+<img
+src="https://img.shields.io/badge/Technology-00A98F?style=for-the-badge&logo=opensourceinitiative&logoColor=white"
+alt="Technology"
+/>
+
+</p>
+
+> 🌱 I'm continuously expanding my technical skills, so this section
+> will grow as I learn, experiment, and build new projects.
+
+---
+
+# 📈 My Growth Mindset
+
+I believe progress doesn't always have to be dramatic.
+
+Sometimes progress is:
+
+```text
+Writing your first program          → 💻
+Understanding something difficult   → 🧠
+Fixing a bug after hours            → 🐛
+Building something from scratch     → 🛠️
+Helping someone else                → 🤝
+Learning from a mistake             → 🌱
+Trying something completely new     → 🚀
+```
+
+Every small improvement is part of the bigger journey.
+
+---
+
+# 💡 A Few Things About Me
+
+| 🌸 | About Me                                                    |
+| -- | ----------------------------------------------------------- |
+| 🎓 | Student at the Institute of Computer Engineering Technology |
+| 💻 | Passionate about coding and computing                       |
+| ☁️ | Interested in cloud systems and cloud computing             |
+| 📚 | Love learning new things                                    |
+| 🧠 | Curious and constantly exploring                            |
+| 🤝 | Enjoy volunteering and helping others                       |
+| 🌿 | Love spending time with nature                              |
+| 🌎 | Enjoy exploring new experiences                             |
+| 🚀 | Working toward becoming a technology professional           |
+| 💡 | Interested in building useful technology solutions          |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=dilini1123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="Dilini's GitHub Statistics"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=dilini1123&theme=tokyonight&hide_border=true"
+alt="Dilini's GitHub Streak"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilini1123&layout=compact&theme=tokyonight&hide_border=true"
+alt="Dilini's Top Languages"
+/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dilini-randima-061861438/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Dilini%20Randima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:wgdilinirandima72@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-wgdilinirandima72%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+</p>
+
+---
+
+# 🌸 My Personal Motto
+
+<p align="center">
+
+### **Learn deeply.**
+
+### **Explore endlessly.**
+
+### **Help others.**
+
+### **Build something meaningful.**
+
+### **Never stop growing.**
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+alt="Footer"
+/>
+
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
+</p>
+
+<p align="center">
+  <i>Keep learning • Keep exploring • Keep building 🌱</i>
+</p>
